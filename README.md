@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santg98460
+- 👋 Hi, I’m @Santosh Giri
 - 👀 I’m interested in coding, Networking, and Hardware Troubleshooting
 - 🌱 I’m currently learning Django with Python
 - 💞️ I’m looking to collaborate on High Progile Company
